@@ -52,3 +52,7 @@ ol, ul {
 .current-button {
   font-weight: bold;
 }
+
+.winnerSquare {
+  background: orange;
+}
